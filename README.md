@@ -5,6 +5,8 @@ This is a tool I wrote to help me and my brother manage addons for the Battle fo
 
 The Battle for Wesnoth: https://www.wesnoth.org/
 
+Note: I can't guarantee too active development on this, but pull requests are welcome!
+
 ToDo
 ----
 * Write setup script.
