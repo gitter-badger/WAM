@@ -11,4 +11,4 @@ ToDo
 * Make UI better.
 	* Use something other than eval to do command line options?
 * Add more intelligent dependency management.
-
+	* Maybe generate a graph of all addons' dependencies?
