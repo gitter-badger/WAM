@@ -19,3 +19,9 @@ ToDo
 Dependencies
 ------------
 sh, mkdir, curl, cat, grep, ls, sed, tr, echo, printf, wget, tar, mv, python3, sed, printf, cut, wc
+
+Setup Instructions
+------------------
+1. Clone the repository.
+2. Copy green_lib.sh, wam.sh, and wam.py to your home directory.
+3. Create the '~/.cache/WAM', '~/.cache/WAM/addon_list', and '~/.cache/WAM/addons' directories.
