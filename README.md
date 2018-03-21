@@ -24,4 +24,4 @@ Setup Instructions
 ------------------
 1. Clone the repository.
 2. Copy green_lib.sh, wam.sh, and wam.py to your home directory.
-3. Create the '~/.cache/WAM', '~/.cache/WAM/addon_list', and '~/.cache/WAM/addons' directories.
+3. Create the '\~/.cache/WAM', '\~/.cache/WAM/addon_list', and '\~/.cache/WAM/addons' directories.
