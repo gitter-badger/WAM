@@ -10,4 +10,5 @@ ToDo
 * Write setup script.
 * Make UI better.
 	* Use something other than eval to do command line options?
+* Add more intelligent dependency management.
 
