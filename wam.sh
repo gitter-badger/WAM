@@ -1,7 +1,7 @@
 #!/bin/sh
 alias source=.
-source "$HOME/.green_sh_lib"
-wampy="/home/jmn/wam.py"
+source "$HOME/green_lib.sh"
+wampy="$HOME/wam.py"
 
 ADDON_SERVER="addons.wesnoth.org"
 GAME_VERSION="1.12" #Switching between game versions is not supported.

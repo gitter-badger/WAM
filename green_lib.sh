@@ -1,4 +1,6 @@
 #!/bin/sh
+#Just some functions to make the code more legible to me.
+
 
 replace_newlines(){
 	sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/$2/g' "$1"
