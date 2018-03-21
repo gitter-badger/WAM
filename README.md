@@ -15,3 +15,7 @@ ToDo
 * Add more intelligent dependency management.
 	* Maybe generate a graph of all addons' dependencies?
 * Maybe rewrite the python code as shell?
+
+Dependencies
+------------
+mkdir, curl, cat, grep, ls, sed, tr, echo, printf, wget, tar, mv, python3, sed, printf, cut, wc

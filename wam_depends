@@ -1,3 +1,0 @@
-mkdir, curl, cat, grep, ls, sed, tr, echo, printf, wget, tar, mv, python3
-green_sh_lib:
-	sed, printf, cut, wc
