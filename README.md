@@ -14,4 +14,4 @@ ToDo
 	* Use something other than eval to do command line options?
 * Add more intelligent dependency management.
 	* Maybe generate a graph of all addons' dependencies?
-* Maybe rewrite the python code to shell?
+* Maybe rewrite the python code as shell?
