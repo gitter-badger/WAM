@@ -18,4 +18,4 @@ ToDo
 
 Dependencies
 ------------
-mkdir, curl, cat, grep, ls, sed, tr, echo, printf, wget, tar, mv, python3, sed, printf, cut, wc
+sh, mkdir, curl, cat, grep, ls, sed, tr, echo, printf, wget, tar, mv, python3, sed, printf, cut, wc
