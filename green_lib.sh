@@ -8,9 +8,6 @@ replace_newlines(){
 get_line_at(){
 	sed "$1q;d"
 }
-#substring(){
-#	printf "$1" | cut -c "$2-$3"
-#}
 str_length(){
 	printf "$1" | wc -m
 }
